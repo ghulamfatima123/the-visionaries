@@ -161,9 +161,3 @@ Includes:
 * Emergency Response
 
 ---
-
-# 🏆 **Hackathon: AI GENESIS — The Visionaries Team**
-✅ A better description for the hackathon submission
-✅ A pitch deck for judges
-
-Just say: **“Make logo”** or **“Make pitch deck”**.
