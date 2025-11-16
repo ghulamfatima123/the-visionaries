@@ -1,11 +1,11 @@
-# 🚀 **The Visionaries — Real-Time Crowd & Airport Screen Intelligence**
+#  **The Visionaries — Real-Time Crowd & Airport Screen Intelligence**
 
 ### *LabLab.ai Genesis Hackathon*
 
 The Visionaries is a lightweight, production-ready FastAPI backend powered by **Gemini 2.5 Flash (Multimodal Vision)**.
 It analyzes **images from airports, public spaces, and events** to provide:
 
-### 🔍 **Key Capabilities**
+###  **Key Capabilities**
 
 * **Crowd Detection:**
   Identifies how many people are present (low / moderate / high density).
@@ -24,7 +24,7 @@ This makes it ideal for **smart airports**, **safety monitoring**, **crowd analy
 
 ---
 
-# 🧠 **Tech Stack**
+#  **Tech Stack**
 
 | Component      | Technology                                  |
 | -------------- | ------------------------------------------- |
@@ -36,7 +36,7 @@ This makes it ideal for **smart airports**, **safety monitoring**, **crowd analy
 
 ---
 
-# 📁 **Project Structure**
+#  **Project Structure**
 
 ```
 the-visionaries/
@@ -48,7 +48,7 @@ the-visionaries/
 
 ---
 
-# ⚙️ **Setup Instructions**
+#  **Setup Instructions**
 
 ### 1️⃣ Clone or Download
 
@@ -87,7 +87,7 @@ http://localhost:8000
 
 ---
 
-# 📸 **API Endpoints**
+#  **API Endpoints**
 
 ## **POST /analyze-image**
 
@@ -123,7 +123,7 @@ Upload any image and get:
 
 ---
 
-# ✨ **Features Under the Hood**
+#  **Features Under the Hood**
 
 ### ✔ Smart Multimodal Prompting
 
@@ -150,7 +150,7 @@ Includes:
 
 ---
 
-# 🌍 **Use Cases**
+#  **Use Cases**
 
 * Airport Operations
 * Passenger Flow Monitoring
